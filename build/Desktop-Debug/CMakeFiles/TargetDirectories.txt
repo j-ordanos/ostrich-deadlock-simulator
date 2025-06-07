@@ -1,0 +1,9 @@
+/home/yordanos-zewge/Documents/oststrich_gui/build/Desktop-Debug/CMakeFiles/oststrich_gui.dir
+/home/yordanos-zewge/Documents/oststrich_gui/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/yordanos-zewge/Documents/oststrich_gui/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/yordanos-zewge/Documents/oststrich_gui/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/yordanos-zewge/Documents/oststrich_gui/build/Desktop-Debug/CMakeFiles/install.dir
+/home/yordanos-zewge/Documents/oststrich_gui/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/yordanos-zewge/Documents/oststrich_gui/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/yordanos-zewge/Documents/oststrich_gui/build/Desktop-Debug/CMakeFiles/oststrich_gui_autogen_timestamp_deps.dir
+/home/yordanos-zewge/Documents/oststrich_gui/build/Desktop-Debug/CMakeFiles/oststrich_gui_autogen.dir

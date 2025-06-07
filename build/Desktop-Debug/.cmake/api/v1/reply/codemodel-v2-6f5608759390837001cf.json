@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-21606c3e7ad697d92e3f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "oststrich_gui",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "oststrich_gui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oststrich_gui-Debug-9d92a7f12a31bb2952f3.json",
+					"name" : "oststrich_gui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oststrich_gui_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oststrich_gui_autogen-Debug-8bdf2ea594f2d4c7cb4b.json",
+					"name" : "oststrich_gui_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oststrich_gui_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oststrich_gui_autogen_timestamp_deps-Debug-e2811df3a1870179fb6a.json",
+					"name" : "oststrich_gui_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yordanos-zewge/Documents/oststrich_gui/build/Desktop-Debug",
+		"source" : "/home/yordanos-zewge/Documents/oststrich_gui"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
